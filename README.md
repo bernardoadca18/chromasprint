@@ -9,12 +9,12 @@
 
 ## Core Features
 
-* **🔍 Pixel-Perfect Sprite Analyzer:** Upload any pixel art or sprite (PNG). The engine reads the image pixel-by-pixel via HTML5 `<canvas>` and automatically extracts every unique color into a manageable palette dashboard.
-* **🔄 Advanced Palette Swapping:** Select any extracted color, remap it to a new target color, and apply a global palette swap to the sprite with a single click. Export your modified sprite instantly.
-* **🎛️ Drag-and-Drop Palette Management:** Organize your extracted colors intuitively. Manually rearrange your palette hierarchy using smooth Drag-and-Drop (powered by `@dnd-kit`).
-* **🌈 Pro-Grade Hue Shifter:** A standalone, highly accurate mathematical color converter supporting bi-directional conversion between **Hex, RGB, HSL, and HSV** color models.
-* **🌓 Adaptive Theming (Light/Dark Mode):** A sleek, premium user interface that seamlessly transitions between a deep Obsidian Dark Mode and a crisp, modern Light Mode.
-* **🌐 Bilingual Interface:** Fully internationalized architecture supporting both English (EN) and Portuguese (PT-BR) out of the box.
+* ** Pixel-Perfect Sprite Analyzer:** Upload any pixel art or sprite (PNG). The engine reads the image pixel-by-pixel via HTML5 `<canvas>` and automatically extracts every unique color into a manageable palette dashboard.
+* ** Advanced Palette Swapping:** Select any extracted color, remap it to a new target color, and apply a global palette swap to the sprite with a single click. Export your modified sprite instantly.
+* ** Drag-and-Drop Palette Management:** Organize your extracted colors intuitively. Manually rearrange your palette hierarchy using smooth Drag-and-Drop (powered by `@dnd-kit`).
+* ** Pro-Grade Hue Shifter:** A standalone, highly accurate mathematical color converter supporting bi-directional conversion between **Hex, RGB, HSL, and HSV** color models.
+* ** Adaptive Theming (Light/Dark Mode):** A sleek, premium user interface that seamlessly transitions between a deep Obsidian Dark Mode and a crisp, modern Light Mode.
+* ** Bilingual Interface:** Fully internationalized architecture supporting both English (EN) and Portuguese (PT-BR) out of the box.
 
 ## Tech Stack
 
